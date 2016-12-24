@@ -1,0 +1,7 @@
+[http]
+ proxy = localhost:8123
+[https]
+ proxy = localhost:8123
+[user]
+	name = criss
+	email = criss.lin@hotmail.com
